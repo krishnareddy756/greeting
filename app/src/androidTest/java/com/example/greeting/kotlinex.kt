@@ -1,4 +1,4 @@
-package com.example.vitbatch1.kotlinexs
+package com.example.greeting
 
 fun main() {
 
